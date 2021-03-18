@@ -20,16 +20,13 @@ You can also change the dates, origins, destination, and currency to find other 
 
 ## How to Use:
 
-In a directory that you want the application to be located write the following commmands.
+In a directory that you want the application to be located write the following commmands that are in bold.
+
+The command below clones the entire repository into your local computer.
+
+### `git clone git clone https://github.com/sbuck0/CheapFlightOptions.git`
+
+The command below starts the application in your default browser.
 
 ### `npm start`
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
