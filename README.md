@@ -18,7 +18,11 @@ You can also change the dates, origins, destination, and currency to find other 
 
 
 
+## How to Use:
 
+In a directory that you want the application to be located write the following commmands.
+
+### `npm start`
 
 In the project directory, you can run:
 
