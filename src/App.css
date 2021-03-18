@@ -1,0 +1,21 @@
+/* Styling the App component of the application*/
+
+#everything{
+  background-color: black;
+}
+
+#heading{
+  width: 100%;
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 300%;
+  padding: 1%;
+  text-align: center;
+}
+
+#logo{
+  height: 5%;
+  width: 5%;
+  margin-right: 1%;
+}
+
